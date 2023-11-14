@@ -1,6 +1,6 @@
 ### Olá! me chamo João Vitor
 
-Sou estudante de Sistemas de Informação e Estagiário no Campus Ouro Branco do IFMG e estou buscando oportunidades de estágio como desenvolvedor.
+Sou estudante de Sistemas de Informação e Analita de Suporte, e estou buscando oportunidades de estágio como desenvolvedor.
 
 
 ### Tecnologias que estou me aperfeiçoando:
